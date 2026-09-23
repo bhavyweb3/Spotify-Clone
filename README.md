@@ -70,7 +70,7 @@ git clone https://bhavyweb3.github.io/Spotify-Clone/
 ### 2. Navigate to the project directory
 
 ```bash
-cd SPOTIFY-CLONE
+cd Spotify-Clone
 ```
 
 ### 3. Open the project
