@@ -104,25 +104,6 @@ For a better development experience, you can use the **Live Server** extension i
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of your project here:
-
-```text
-screenshots/
-├── home.png
-├── player.png
-└── playlist.png
-```
-
-Example:
-
-```markdown
-![Home Page](screenshots/home.png)
-```
-
----
-
 ## 🎯 Project Goals
 
 The main goals of this project are:
