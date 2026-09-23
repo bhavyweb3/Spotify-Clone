@@ -64,7 +64,7 @@ Follow these steps to run the project locally.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/SPOTIFY-CLONE.git
+git clone  https://bhavyweb3.github.io/Spotify-Clone/
 ```
 
 ### 2. Navigate to the project directory
