@@ -29,7 +29,7 @@ Fork the **SPOTIFY-CLONE** repository to your GitHub account.
 ### 2. Clone Your Fork
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/SPOTIFY-CLONE.git
+git clone  https://bhavyweb3.github.io/Spotify-Clone/
 ```
 
 ### 3. Navigate to the Project
